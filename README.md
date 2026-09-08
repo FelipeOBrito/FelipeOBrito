@@ -5,7 +5,7 @@
 I am a Software Engineering student passionate about backend development, software architecture, and the intersection of traditional programming with Artificial Intelligence. I am constantly building my foundation in technology and looking for opportunities to solve real-world problems.
 
 ### 🚀 About Me
-* 🎓 **Currently studying:** 1st semester of Software Engineering at UNICID.
+* 🎓 **Currently studying:** 2st semester of Software Engineering at UNICID.
 * 💻 **Focusing on:** Backend Development, building scalable systems, and API integrations.
 * 🤖 **Exploring:** Artificial Intelligence, specifically Large Language Models (LLMs), Transformer architectures, and parameter tuning (Temperature, Top-p).
 * ⚙️ **Recent Projects:** 
