@@ -11,7 +11,6 @@ I am a Software Engineering student passionate about backend development, softwa
 * ⚙️ **Recent Projects:** 
   * Authored a System Requirements Document (DRS) for a university access control system using Facial Recognition and NFC.
   * Conducted UX/UI usability and accessibility audits (Nielsen's Heuristics & WCAG) for major digital platforms.
-* 🃏 **Fun Fact:** When I'm not coding or studying tech, you can probably find me playing a strategic game of Truco!
 
 ### 🛠️ Tech Stack & Tools
 
