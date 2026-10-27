@@ -1,30 +1,17 @@
-# Hi there, I'm Felipe de Oliveira Brito! 👋
-
-**Software Engineering Student @ UNICID | Aspiring Backend Developer | AI Enthusiast**
-
-I am a Software Engineering student passionate about backend development, software architecture, and the intersection of traditional programming with Artificial Intelligence. I am constantly building my foundation in technology and looking for opportunities to solve real-world problems.
-
-### 🚀 About Me
-* 🎓 **Currently studying:** 2st semester of Software Engineering at UNICID.
-* 💻 **Focusing on:** Backend Development, building scalable systems, and API integrations.
-* 🤖 **Exploring:** Artificial Intelligence, specifically Large Language Models (LLMs), Transformer architectures, and parameter tuning (Temperature, Top-p).
-* ⚙️ **Recent Projects:** 
-  * Authored a System Requirements Document (DRS) for a university access control system using Facial Recognition and NFC.
-  * Conducted UX/UI usability and accessibility audits (Nielsen's Heuristics & WCAG) for major digital platforms.
-
-### 🛠️ Tech Stack & Tools
-
-**Backend & Core:**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-**Frontend & Web:**  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### 📫 Let's Connect!
-<a href="https://www.linkedin.com/in/felipe-brito-7bb703221" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+<div align="center">
+​<!-- TOP HERO BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F2FE,100:4FACFE&height=220&section=header&text=FELIPE%20BRITO&fontSize=68&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20|%20Tech%20Instructor%20|%20Solutions%20Architect&descSize=20&descAlignY=62&descAlign=50" width="100%" alt="Header Banner" />
+​<!-- BADGES & SOCIAL LINKS -->
+<a href="https://www.linkedin.com/in/felipe-brito-7bb703221">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
+<a href="https://github.com/FelipeOBrito">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<a href="mailto:contato@felipebrito.dev">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+​<!-- QUICK QUOTE / TAGLINE -->
+<sub>⚡ <i>"Building high-performance digital products, scaling mobile & web architectures, and mentoring the next generation of engineers."</i></sub>
+​</div>
+​💻 whoami --verbose
